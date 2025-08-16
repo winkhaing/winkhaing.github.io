@@ -9,6 +9,29 @@ redirect_from:
 
 {% include base_path %}
 
+Here is my Full CV.
+[Download Full CV (PDF)](/files/CV_WK.pdf)
+
+The following highlights key moments from my personal and professional history.
+
+## Education
+
+**PhD, Clinical Epidemiology**  
+Mahidol University  
+24/07/2017 – Passed with GPA 3.83
+
+**Master of Medical Science (Public Health)**  
+University of Medicine, Mandalay, Myanmar (BURMA)  
+31/12/2006 – Passed with Biostatistics Distinction
+
+**M.B.,B.S. (Bachelor of Medicine, Bachelor of Surgery)**  
+University of Medicine, Mandalay, Myanmar (BURMA)  
+02/02/2003
+
+**DipMedEd (Diploma in Medical Education)**  
+University of Public Health, Yangon, Myanmar (BURMA)  
+31/12/2019
+
 Education
 ======
 * MBBS, University of Medicine, Mandalay (2002)
