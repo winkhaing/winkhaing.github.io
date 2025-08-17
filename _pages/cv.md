@@ -14,7 +14,8 @@ Here is my Full CV.
 
 # Below is a snapshot of my journey so far.
 
-## Education
+Education
+======
 
 **PhD, Clinical Epidemiology**  
 Mahidol University  
@@ -32,7 +33,8 @@ University of Medicine, Mandalay, Myanmar (BURMA)
 University of Public Health, Yangon, Myanmar (BURMA)  
 31/12/2019
 
-## Work Experience
+Work Experience
+======
 
 **Senior Research Fellow**  
 **National Center for Infectious Diseases, Tan Tock Seng Hospital, Singapore**  
@@ -82,14 +84,29 @@ Internationally recognized institutions dedicated to medical education, research
 - Recognized for exceptional teaching abilities as a lecturer and module supervisor, designing and delivering courses on epidemiology, biostatistics, evidence-based medicine, and research methodology.
 - Published scholarly articles in reputable journals, presented research findings at scientific meetings, and delivered engaging presentations, demonstrating a strong commitment to knowledge dissemination and active participation in the academic community.
 
-Skills
+Professional Membership
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
+- Society of Infectious Diseases (Singapore) (Lifetime Member)
+- Cochrane organization, UK (Member 2023-2026)
+- International Society for Pharmacoeconomics and Outcomes Research (ISPOR: Member ID: 3237870)
+- Myanmar Medical Council (Member ID: 17831)
+- Mandalay Medical Association, Myanmar (Member ID: 4069)
+- Epidemiology Foundation of India (Life Membership No. 02630)
+- Preventive and Social Medicine Society, Myanmar (Membership No. 001/0098)
+
+Key Skills
+======
+
+- Conducting diverse epidemiological studies, including designing and executing research utilizing both primary and secondary real-world data sources.
+- Evidence Synthesis: Systematic Review and Meta-analysis (including network meta-analysis)
+- Epidemiological and Biostatistical Analysis with STATA, R, Python
+- Data Management with REDCap, SQL, Kobo Collect, EpiData
+- Data Visualization with R, Python, Shiny, Power BI
+- Soft skills: Good listener and communicator, strong analytical skills with critical thinking and problem solving, adaptability, collaborative abilities with teamwork orientation, effective time management, leadership skills, organizational and planning skills
+- Office Suite: Microsoft 365 Suite (Word, Excel, PowerPoint, Outlook), Google Docs, Google Sheets, Google Slides, Google Drive
+- Language skills: English (C1 level), Chinese Mandarin (Fluent), Burmese (Mother language)
+- Large Language Model (AI) skills: OpenAI, Claude, Google AI Studio, GitHub Copilot
 
 Publications
 ======
@@ -97,6 +114,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+
 Talks
 ======
   <ul>{% for post in site.talks %}
